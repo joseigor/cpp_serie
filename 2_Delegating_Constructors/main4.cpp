@@ -18,7 +18,7 @@ class Employee {
     Employee(const char *_name, int _age) : Employee(_name, _age, 0.0f) {
         std::cout << "Constructor 2" << std::endl;
     }
-    // Delegating Contructor                                 | Target Constructor
+    // Delegating Contructor                             | Target Constructor
     Employee(const char *_name, int _age, float _salary) : Employee(_name, _age, _salary, "") {
         std::cout << "Constructor 3" << std::endl;
     }
