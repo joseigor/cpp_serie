@@ -1,4 +1,4 @@
-# C++ serie
+# C++ series
 This repository contains a list of articles about C++ programming language, see below the list topics covered:
 
 1. Copy Constructor
