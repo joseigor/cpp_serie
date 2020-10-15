@@ -2,7 +2,7 @@
 This repository contains a list of articles about C++ programming language, see below the list topics covered:
 
 1. Copy Constructor
-2. [Delegating Constructor](https://github.com/joseigor/cpp_serie/tree/main/2_Delegating_Constructors)
+2. [Delegating Constructor in C++](https://github.com/joseigor/cpp_serie/tree/main/2_Delegating_Constructors)
 
 ### Please note:
 * This list will be apdated as soon as new content is produced.
