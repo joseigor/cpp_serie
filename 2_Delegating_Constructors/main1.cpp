@@ -56,8 +56,8 @@ class Employee {
     }
 
     // Copy Constructor and Copy Operator marked as delete
-    Employee(const Employee &) = delete;
-    Employee &operator=(Employee) = delete;
+    Employee(const Employee&) = delete;
+    Employee &operator=(Employee&) = delete;
 };
 
 int main() {
