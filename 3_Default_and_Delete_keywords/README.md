@@ -4,6 +4,12 @@
 
 - especial members ( default constructor, copy constructor, copy-assignment operator, destructor)
   C++ 11 added to that list (move constructor and move asssigment)
+  -only applicable to especial member function
+
+  - show example of how it was to make a noncyable class before c++ 11 and after;
+
+  "Good point":
+  Because of the performance benefits of trivial special member functions, we recommend that you prefer automatically generated special member functions over empty function bodies when you want the default behavior. You can do this either by explicitly defaulting the special member function, or by not declaring it (and also not declaring other special member functions that would prevent it from being automatically generated.)
 
 #Delete
 
