@@ -7,8 +7,9 @@ This repository contains a list of articles about C++ programming language, see 
 3. Default and Delete keywords in C++ 11
 4. References
 5. References vs Pointers
-6. L-Values vs R-Values
-7. Move Constructor and Move assgiment operator
+6. Lvalue vs Rvalue
+7. Rvalue Reference
+8. Move Semantics
 
 ### Please note:
 
