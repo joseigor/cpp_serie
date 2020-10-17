@@ -2,7 +2,7 @@
 
 This repository contains a list of articles about C++ programming language, see below the list topics covered:
 
-1. [Copy Constructor in C++ 11] (https://medium.com/@joseigorcfm/copy-constructor-in-c-49d479daa5c8)
+1. [Copy Constructor in C++ 11](https://medium.com/@joseigorcfm/copy-constructor-in-c-49d479daa5c8)
 2. [Delegating Constructor in C++ 11](https://github.com/joseigor/cpp_serie/tree/main/2_Delegating_Constructors)
 3. Default and Delete keywords in C++ 11
 
