@@ -1,0 +1,7 @@
+MAKE COMMANDS
+
+make mainX : compiles mainX.cpp file, where X could be 1, 2, 3, 5 or no X to compile main.cpp.
+make all: compiles main.cpp and all mainX.cpp files.
+make clean: removes all executables
+
+
